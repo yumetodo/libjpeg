@@ -1,0 +1,13 @@
+CMakeFiles
+CMakeCache.txt
+CPackConfig.cmake
+CPackSourceConfig.cmake
+CTestTestfile.cmake
+cmake_install.cmake
+*.dll
+*.exe
+*.a
+*.out
+*.obj
+jconfig.h
+Makefile
